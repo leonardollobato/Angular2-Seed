@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction
 
 [![Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://github.com/mgechev/angular2-style-guide)
@@ -261,3 +262,6 @@ You can follow the [Angular 2 change log here](https://github.com/angular/angula
 # License
 
 MIT
+=======
+# Angular2-Seed
+>>>>>>> 194e043551e3f5d47d0c93e16b16286a1867b40d
